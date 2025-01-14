@@ -7,8 +7,6 @@
 
 ### Greetings & Salutations😊,
 #### I'm a Game Developer who loves to 💻Code, 🎮Play & make games, 🍿Watch movies, and 🛝Play with kids.
-![I am a Game Developer specialized in Gameplay Programming.](https://media.licdn.com/dms/image/v2/D5616AQFcQ6PVUSkQbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734978603652?e=1742428800&v=beta&t=oXJ4_fUmWB49cUbXDDZtf6FXWltzcf1PSzaIOn1sSjk)
-
 #### Skills: C# | C++ | Unity | Unreal | Defold | .Net | Javascript | Three.js | Lua
 
 - 🔭 I’m currently working on Game projects.
