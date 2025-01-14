@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Md. Aftab Uddin
+### Hello! 😊, my name is Md. Aftab Uddin.
 #### I am a Game Developer specialized in Gameplay Programming.
 ![I am a Game Developer specialized in Gameplay Programming.](https://media.licdn.com/dms/image/v2/D5616AQFcQ6PVUSkQbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734978603652?e=1742428800&v=beta&t=oXJ4_fUmWB49cUbXDDZtf6FXWltzcf1PSzaIOn1sSjk)
 
-A Game Developer who loves to Code, Watch movies, Play Games, Make Games, and Play with kids.
+A Game Developer who loves to 💻Code, 🍿Watch movies, 🎮Play Games, 👨‍💻Make Games, and 🛝Play with kids.
 
 Skills: C# | C++ | Unity | Unreal | Defold | .Net | Javascript | Three.js | Lua
 
