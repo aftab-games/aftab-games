@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **aftab-games/aftab-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 
 A Game Developer who loves to Code, Watch movies, Play Games, Make Games, and Play with kids.
 
-Skills: C# / C++ / Javascript / Lua / Unity / Unreal / Defold / .Net / Three.js 
+Skills: C# | C++ | Unity | Unreal | Defold | .Net | Javascript | Three.js | Lua
 
 - 🔭 I’m currently working on multiple Game projects 
 - 🌱 I’m currently learning Shader programming, Multithreading, Multiplayer game programming 
