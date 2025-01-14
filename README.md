@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently working on Game projects.
 - 🌱 I’m currently learning Shader programming.
-- 📫 Reach me @ https://www.linkedin.com/in/aftab-games/ 
-
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aftab-games/) 
+-->
 
 
