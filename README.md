@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! 😊, my name is Md. Aftab Uddin.
+### Hello! 😊,
 #### I am a Game Developer specialized in Gameplay Programming.
 ![I am a Game Developer specialized in Gameplay Programming.](https://media.licdn.com/dms/image/v2/D5616AQFcQ6PVUSkQbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734978603652?e=1742428800&v=beta&t=oXJ4_fUmWB49cUbXDDZtf6FXWltzcf1PSzaIOn1sSjk)
 
