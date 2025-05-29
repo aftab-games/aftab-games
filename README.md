@@ -10,7 +10,7 @@
 #### Skills: C# | C++ | Unity | Unreal | Defold | .Net | Javascript | Three.js | Lua
 
 - 🔭 I’m currently working on Game projects.
-- 🌱 I’m currently studying Multiplayer game development, Game Designing, and Shader development.
+- 🌱 I’m currently studying Multiplayer game development, Game designing, and Shader development.
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aftab-games/) 
 -->
