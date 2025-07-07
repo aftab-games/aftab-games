@@ -6,8 +6,8 @@
 </p>
 
 ### Greetings & Salutations😊,
-#### I'm a Game Developer who loves to 💻Code, 🎮Play & make games, 🍿Watch movies, and 🛝Play with kids.
-#### Skills: C# | C++ | Unity | Unreal | Defold | .Net | Javascript | Three.js | Lua
+#### I'm a curious-minded person who loves to 💻Code, 🎮Play & develop games, 🍿Watch movies, and 🛝Play with kids.
+#### Skills: C# | C++ | Unity | Unreal | .Net | Javascript | Three.js | Defold | Lua
 
 - 🔭 I’m currently working on Game projects.
 - 🌱 I’m currently studying Multiplayer game development, Game designing, and Shader development.
