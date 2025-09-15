@@ -7,10 +7,10 @@
 
 ### Greetings & Salutations😊,
 #### I'm a curious-minded person who loves to 💻Code, 🎮Play & develop games, 🍿Watch movies, and 🛝Play with kids.
-#### Skills: C# | C++ | Unity | Unreal | .Net | Javascript | Three.js | Defold | Lua
+#### Skills: C# | C++ | Unity | Unreal | .Net | Javascript | Three.js | Lua | Python
 
 - 🔭 I’m currently working on Game projects.
-- 🌱 I’m currently studying Multiplayer game development, Game designing, and Shader development.
+- 🌱 I’m currently studying Multiplayer game development, Game design, and Shader development.
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aftab-games/) 
 -->
