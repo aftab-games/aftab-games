@@ -9,8 +9,8 @@
 #### I enjoy 💻Planning & Programming, 🎮Playing & developing games, 🍿Watching movies, and 🛝Playing with kids.
 #### Skills: C# | C++ | Unity | .Net | Javascript | Lua | Python
 
-- 🔭 I’m currently working on Game projects and DotNET projects
-- 🌱 I’m currently studying Multiplayer game development, Game design, DotNET, and Shader development.
+- 🔭 I’m currently working on Game projects and .NET projects
+- 🌱 I’m currently studying Multiplayer game development, Game design, .NET, and Shader development.
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aftab-games/) 
 -->
